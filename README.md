@@ -1,6 +1,6 @@
 # <p><img src="./assets/Nyan cat cat.gif" height="18"> 𝐇𝐞𝐰𝐨 𝐈'𝐦 <a hraf="https://google.com/">𝐓𝐚𝐚𝐤𝐨</a> <img src="./assets/Nyan cat cat.gif" height="18"></p>
 
-<img src="./assets/astolfo.png" height="220" align="right">
+<img src="./assets/astolfo.png" height="250" align="right">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=rubik&pause=1000&color=E5B3F7&multiline=true&width=435&height=86&lines=let+name+%3D+%22Taako%22;let+pronouns+%3D+%5B%22they%22%2C+%22them%22%2C+%22she%22%2C+%22her%22%5D;let+location+%3D+%22Hamburg+%2F+Germany%22)](https://git.io/typing-svg)
 
