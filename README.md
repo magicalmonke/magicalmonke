@@ -1,12 +1,12 @@
-# <p><img src="./assets/Nyan cat cat.gif" height="18"> 𝓗𝓮𝔀𝓸! 𝓘'𝓶 <a hraf="https://google.com/">𝓣𝓪𝓪𝓴𝓸</a> <img src="./assets/Nyan cat cat.gif" height="18"></p>
+# <p><img src="./assets/Nyan cat cat.gif" height="18"> 𝐇𝐞𝐰𝐨 𝐈'𝐦 <a hraf="https://google.com/">𝐓𝐚𝐚𝐤𝐨</a> <img src="./assets/Nyan cat cat.gif" height="18"></p>
 
 I work as a freelance full-stack developer with a focus on web development and UI/UX design.
 
 I love to create things and I'm always looking for new challenges. I'm a fast learner and I'm always open to new ideas and technologies. I'm currently juggling school and side projects, which means I'm basically a super hero in training. Besides programming, I'm also spending way too much time on reddit, endlessly scrolling through memes, or exploring new worlds in Minecraft.
 
-<br><br>
+<br>
 
-## <p align="center">𝓣𝓱𝓲𝓷𝓰𝓼 𝓘 𝓾𝓼𝓮</p>
+## <p align="center">𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐮𝐬𝐞</p>
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
