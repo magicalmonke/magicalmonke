@@ -1,7 +1,5 @@
 # <p><img src="./assets/Nyan cat cat.gif" height="18"> 𝓗𝓮𝔀𝓸! 𝓘'𝓶 <a hraf="https://google.com/">𝓣𝓪𝓪𝓴𝓸</a> <img src="./assets/Nyan cat cat.gif" height="18"></p>
 
-<img src="./assets/astolfo.png" height="250" align="right">
-
 I work as a freelance full-stack developer with a focus on web development and UI/UX design.
 
 I love to create things and I'm always looking for new challenges. I'm a fast learner and I'm always open to new ideas and technologies. I'm currently juggling school and side projects, which means I'm basically a super hero in training. Besides programming, I'm also spending way too much time on reddit, endlessly scrolling through memes, or exploring new worlds in Minecraft.
@@ -26,7 +24,6 @@ I love to create things and I'm always looking for new challenges. I'm a fast le
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
