@@ -6,8 +6,8 @@ I love to create things and I'm always looking for new challenges. I'm a fast le
 
 <br>
 
-## <p align="center">𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐮𝐬𝐞</p>
-<div align="center">
+## <p>𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐮𝐬𝐞</p>
+<div>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge">
@@ -30,7 +30,6 @@ I love to create things and I'm always looking for new challenges. I'm a fast le
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white">
