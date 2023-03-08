@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=rubik&pause=1000&color=E5B3F7&multiline=true&width=435&height=86&lines=let+name+%3D+%22Taako%22;let+pronouns+%3D+%5B%22they%22%2C+%22them%22%2C+%22she%22%2C+%22her%22%5D;let+location+%3D+%22Hamburg+%2F+Germany%22)](https://git.io/typing-svg)
 
-## 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! 👋
+### 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! 👋
 I love to create things and I'm always looking for new challenges. I'm a fast learner and I'm always open to new ideas and technologies. I'm currently juggling school and side projects, which means I'm basically a super hero in training. Besides programming, I'm also spending way too much time on reddit, endlessly scrolling through memes, or exploring new worlds in Minecraft.
 
 <br>
 
-## <p>𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐮𝐬𝐞</p>
+### <p>𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐮𝐬𝐞</p>
 <div>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
