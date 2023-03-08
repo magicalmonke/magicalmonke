@@ -1,5 +1,9 @@
 # <p><img src="./assets/Nyan cat cat.gif" height="18"> 𝐇𝐞𝐰𝐨 𝐈'𝐦 <a hraf="https://google.com/">𝐓𝐚𝐚𝐤𝐨</a> <img src="./assets/Nyan cat cat.gif" height="18"></p>
 
+<img src="./assets/astolfo.png" height="220" align="right">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=rubik&pause=1000&color=E5B3F7&multiline=true&width=435&height=86&lines=let+name+%3D+%22Taako%22;let+pronouns+%3D+%5B%22they%22%2C+%22them%22%2C+%22she%22%2C+%22her%22%5D;let+location+%3D+%22Hamburg+%2F+Germany%22)](https://git.io/typing-svg)
+
 I work as a freelance full-stack developer with a focus on web development and UI/UX design.
 
 I love to create things and I'm always looking for new challenges. I'm a fast learner and I'm always open to new ideas and technologies. I'm currently juggling school and side projects, which means I'm basically a super hero in training. Besides programming, I'm also spending way too much time on reddit, endlessly scrolling through memes, or exploring new worlds in Minecraft.
